@@ -1,0 +1,39 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+aialgo/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# Generated OSRS price data
+osrs_prices.json
+item_mapping.json
+merged_items.json
+
+# Hugging Face models and checkpoints
+models/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db

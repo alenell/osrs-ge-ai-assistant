@@ -1,0 +1,12 @@
+# LLM and Hugging Face
+torch
+transformers
+accelerate
+huggingface_hub
+safetensors
+
+# OSRS Wiki API requests
+requests
+
+# Testing
+pytest
