@@ -96,6 +96,7 @@ Assistant: Based on the latest analysis, flipping an Abyssal whip is not current
 - **Estimated ROI**: -1.25%  
 
 The prices are indicative based on previous trades, and orders may not fill at these prices. Additionally, tax exemptions must be verified. It's not currently worth flipping an Abyssal whip.
+```
 
 The first run downloads the model, which takes a while.
 
